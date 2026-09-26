@@ -1,0 +1,19 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Model weights (NEVER push .pt files to GitHub)
+*.pt
+*.pth
+*.onnx
+
+# YOLO runs & test images
+runs/
+uploads/
+*.jpg
+*.jpeg
+*.png
+!demo_assets/*.jpg

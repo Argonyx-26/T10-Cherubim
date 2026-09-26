@@ -1,0 +1,5 @@
+ultralytics
+ensemble-boxes
+opencv-python
+huggingface_hub
+numpy
